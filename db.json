@@ -1,0 +1,16 @@
+{
+   "posts":[
+	{"id":1,"name":"el abbadi","type":"sans additif"},
+	{"id":2,"name":"maroine","type":"hemostase"},
+	{"id":3,"name":"hicham","type":"sans additif"}
+	   ],
+  "comments":[
+	{"id":1,"name":"hhhddd","type":"bbbbb"},
+	{"id":2,"sssss":"maroine","type":"sssss"},
+	{"id":3,"name":"hicham","type":"sans additif"}
+	   ],
+  "profile":
+	{"name":"profile"},
+
+	   
+}
